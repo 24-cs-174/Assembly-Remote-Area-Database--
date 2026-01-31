@@ -15,7 +15,7 @@ msg db 13,10,'Menu'
 choice db 13,10,'Choice: $'
 
 .CODE
-START PROC
+MAIN PROC
     mov ax,@data
     mov ds,ax
 
@@ -59,5 +59,6 @@ SUM:     jmp MENU_LOOP
 QUIT:
     mov ah,4Ch
     int 21h
-START ENDP
-END START
+MAIN ENDP
+END MAIN
+
