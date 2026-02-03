@@ -1,4 +1,4 @@
 Sr#,Name,FamilyMembers,Water,Flour,Pulses
-1,Ali,5,60,20,5
-2,Hassan,8,80,30,8
-3,Akram,6,70,15,6
+1,Anas,5,60,20,5
+2,Ali,8,80,30,8
+3,Yoyo,6,70,15,6
